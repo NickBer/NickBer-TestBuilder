@@ -9,4 +9,4 @@ You can find TestsBuilder.exe file in TestsBuilder\bin\Debug folder.
 
 ## Note
 
-It`s an old project that needed to be rewrite.
+It`s an old project that needs to be rewrited.
